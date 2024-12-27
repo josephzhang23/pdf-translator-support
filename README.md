@@ -1,1 +1,1 @@
-# pdf-translator-support
+# PDF Translator Support
